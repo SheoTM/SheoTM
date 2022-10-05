@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SheoTM
+- 👀 I’m interested in ... volleyball
+- 🌱 I’m currently learning ... front-end
+- 📫 How to reach me ... leon0411@op.pl
