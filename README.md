@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SheoTM
-- 👀 I’m interested in ... volleyball
-- 🌱 I’m currently learning ... front-end
+- 👀 I’m interested in ... volleyball, programming websites, e-sport
+- 🌱 I’m currently learning ... HTML/CSS/SCSS/JS/REACT
 - 📫 How to reach me ... leon0411@op.pl
